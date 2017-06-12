@@ -1,4 +1,4 @@
-package Assignment4;
+package Typecasting;
 
 import java.util.Scanner;
 
